@@ -1,11 +1,11 @@
 {
-    "name": "looti_dasbord",
-    "short_name": "looti_dasbord",
+    "name": "لوتي LOOTI — لوحة التحكم",
+    "short_name": "لوتي LOOTI",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "لوحة تحكم لوتي LOOTI",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
